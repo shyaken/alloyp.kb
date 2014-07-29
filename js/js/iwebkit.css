@@ -1,0 +1,9 @@
+﻿
+
+/*TOPBAR*/
+
+/*header styling*/
+body>header,body>footer {
+	z-index:100;position:fixed;width:100%;}
+body>header{top:0}
+

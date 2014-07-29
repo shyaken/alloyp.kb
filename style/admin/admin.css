@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+
+#button_menu a, #button_menu a:hover
+{
+	text-decoration: none;
+}

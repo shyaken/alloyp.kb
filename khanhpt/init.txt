@@ -1,0 +1,4 @@
+init 0
+iinti adsfafd
+khanh 3
+khanh 4
